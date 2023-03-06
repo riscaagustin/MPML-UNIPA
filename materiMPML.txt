@@ -1,5 +1,11 @@
-Kaggle, Git, GitHub
+1. Kaggle, Git, GitHub
  + Pengenalan Kaggle
  + Workflow Git
-Unsupervised Method
-Supervised Method
+2. Unsupervised Method
+ + K-Means
+ + Kernel K-Means
+3. Supervised Method
+ + Naive Bayes
+ + Regresi Logistik
+ + KNN
+ 
