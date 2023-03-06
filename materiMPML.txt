@@ -1,3 +1,5 @@
 Kaggle, Git, GitHub
+ + Pengenalan Kaggle
+ + Workflow Git
 Unsupervised Method
 Supervised Method
