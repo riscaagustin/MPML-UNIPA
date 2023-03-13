@@ -6,7 +6,8 @@
  + Kernel K-Means
 3. Supervised Method
  + Naive Bayes
- + Regresi Logistik
  + KNN
+ + Decision Tree
  + SVM
  + Jaringan Syaraf Tiruan
+
