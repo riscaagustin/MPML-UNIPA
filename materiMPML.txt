@@ -8,5 +8,6 @@
  + Naive Bayes
  + KNN
  + Decision Tree
- 
- 
+ + SVM
+ + Jaringan Syaraf Tiruan
+
