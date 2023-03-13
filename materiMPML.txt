@@ -8,4 +8,5 @@
  + Naive Bayes
  + Regresi Logistik
  + KNN
- 
+ + SVM
+ + Jaringan Syaraf Tiruan
